@@ -1,0 +1,13 @@
+{
+    "MySqlIntern.sql": {
+        "execute": {
+            "connectionOptions": "UseExistingConnection",
+            "onSuccessOptions": "CommitOnEachStmt",
+            "onErrorOptions": "OnErrContinue",
+            "terminator": ";",
+            "currentSchema": "",
+            "currentPath": "",
+            "useUpperCaseOption": true
+        }
+    }
+}
